@@ -1,4 +1,4 @@
-# Sentiment Analysis via Deep Averaging Networks andBPE
+# Sentiment Analysis via Deep Averaging Networks and BPE
 
 ## Author
 Yufan Shi
